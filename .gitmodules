@@ -1,3 +1,6 @@
 [submodule "abc"]
 	path = abc
 	url = git@github.com:listen-lavender/abc.git
+[submodule "Tke"]
+	path = Tke
+	url = git@git.code.oa.com:Tars-Enterprise/Tke.git
