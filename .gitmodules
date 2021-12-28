@@ -4,3 +4,6 @@
 [submodule "Tke"]
 	path = Tke
 	url = git@git.code.oa.com:Tars-Enterprise/Tke.git
+[submodule "hhh"]
+	path = hhh
+	url = git@github.com:listen-lavender/hhh.git
